@@ -1,8 +1,8 @@
 'use strict';
 
 import readline from "readline-sync";
-import * as model from "./model";
-import { printTweets } from "./view";
+import * as model from "./Model";
+import { printTweets } from "./View";
 
 export function runSearch() {
     console.log("Here are some tweets by @UW_iSchool")

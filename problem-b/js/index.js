@@ -1,5 +1,5 @@
 'use strict';
 
-import { runSearch } from "./controller";
+import { runSearch } from "./Controller";
 
 runSearch();
